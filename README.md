@@ -22,11 +22,9 @@ The goal is to simulate optical effects that modify the patterns in an image. Th
 
 | Stage | Image |
 |-------|-------|
-| Input Image | ![Input Image](images/Picture1.jpg) |
-| After Vignetting Shrink | ![Shrink Effect](images/vignette_shrunk.jpg) |
-| After Distortion | ![Distortion Effect](images/OutputImage.jpg) |
-
-> **Note:** Place your images in an `images/` folder in the repository for proper display in GitHub.
+| Input Image | ![Input Image](Picture1.jpg) |
+| After Vignetting Shrink | ![Shrink Effect](vignette_shrunk.jpg) |
+| After Distortion | ![Distortion Effect](OutputImage.jpg) |
 
 ---
 
